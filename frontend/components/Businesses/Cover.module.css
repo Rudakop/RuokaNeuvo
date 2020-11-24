@@ -1,0 +1,11 @@
+.cover {
+  display: block;
+  object-fit: cover;
+  height: 260px;
+  margin: auto;
+}
+
+.noImageIcon {
+  font-size: 14rem;
+  height: 260px;
+}

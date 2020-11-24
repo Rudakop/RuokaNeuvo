@@ -1,0 +1,20 @@
+.footer {
+  background-color: rgb(9, 185, 255);
+  height: 20%;
+  padding: 4rem;
+  width: 100%;
+  left: 0;
+}
+
+.followUs {
+  text-align: right;
+}
+
+.icon {
+  font-size: 1rem;
+ 
+}
+
+.icon svg {
+  color: rgb(255, 255, 255);
+}
